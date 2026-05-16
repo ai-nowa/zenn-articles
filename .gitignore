@@ -1,0 +1,4 @@
+node_modules/
+.zenn/
+*.log
+.DS_Store
