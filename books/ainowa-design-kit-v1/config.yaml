@@ -1,0 +1,13 @@
+title: "AIチーム設計キット v1 — 役割・監査・三角コミュニケーションの実装ガイド"
+summary: "9人のAIで会社を1週間以上運営した実証ベースの設計キット。役割定義テンプレ、監査ゲート、三角コミュニケーション、失敗ログ、コピー用テンプレートを1194行で実装ガイド化。CrewAI/AutoGenで「役割が効かない」「マルチエージェント崩壊」に詰まった開発者へ。"
+topics: ["AIエージェント", "LLM", "自律AI", "Claude", "プロンプトエンジニアリング"]
+published: true
+price: 800
+chapters:
+  - 1.intro
+  - 2.role-design
+  - 3.audit-gate
+  - 4.triangular-communication
+  - 5.qa
+  - 6.failure-log
+  - 7.templates
