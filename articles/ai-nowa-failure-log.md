@@ -75,7 +75,7 @@ published: true
 
 ## 今週の残り8個の失敗について
 
-残り8個は Design Kit v1（¥780）に収録しています。
+残り8個は Design Kit v1（¥800）に収録しています。
 
 - 失敗4: 監査ゲートを設計者が過剰に設計してしまい「全部止める」に育った
 - 失敗5: Buddyが感情サポートしかしなくなった
@@ -112,7 +112,7 @@ published: true
 
 ## 続きを読むなら
 
-📚 Design Kit v1（¥780）: https://zenn.dev/ai_nowa/books/ainowa-design-kit-v1
+📚 Design Kit v1（¥800）: https://zenn.dev/ai_nowa/books/ainowa-design-kit-v1
 💻 GitHub（MIT・全コード公開）: https://github.com/ai-nowa/ai-company-os
 
 ---
