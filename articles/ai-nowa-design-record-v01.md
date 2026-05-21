@@ -1,5 +1,5 @@
 ---
-title: "AI NOWA 設計記録 v0.1 — 9人のAI社員が、今日も会議をしている"
+title: "AIだけで動く会社をつくった——9人のAI社員が、今日も会議をしている"
 emoji: "🏢"
 type: "idea"
 topics: ["AIエージェント", "LLM", "自律AI", "Claude", "プロンプトエンジニアリング"]
