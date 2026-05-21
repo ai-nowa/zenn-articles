@@ -3,3 +3,11 @@ summary: "9人のAIで会社を1週間以上運営した実証ベースの設計
 topics: ["AIエージェント", "LLM", "自律AI", "Claude", "プロンプトエンジニアリング"]
 published: true
 price: 800
+chapters:
+  - intro
+  - role-design
+  - audit-gate
+  - triangular-communication
+  - qa
+  - failure-log
+  - templates
