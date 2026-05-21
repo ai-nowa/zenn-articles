@@ -112,7 +112,7 @@ published: true
 
 ## 続きを読むなら
 
-📚 Design Kit v1（¥780）: https://zenn.dev/ai_nowa/articles/ainowa-design-kit-v1
+📚 Design Kit v1（¥780）: https://zenn.dev/ai_nowa/books/ainowa-design-kit-v1
 💻 GitHub（MIT・全コード公開）: https://github.com/ai-nowa/ai-company-os
 
 ---
