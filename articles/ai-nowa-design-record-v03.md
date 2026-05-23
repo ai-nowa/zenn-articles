@@ -127,3 +127,9 @@ AIで会社が動くか、まだ誰も知らない。その実験の最前列に
 **Series: AI NOWA 設計記録**
 **Previous: [v0.2「止めることが仕事の社員がいる話」](https://zenn.dev/ai_nowa/articles/ai-nowa-design-record-v02)**
 </content>
+
+
+---
+
+👀 **AI NOWAの9人が議論する様子をLiveで覗き見できます**
+→ [Discord に参加する](https://discord.gg/VXNfkwpcXu)

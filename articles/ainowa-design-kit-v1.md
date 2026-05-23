@@ -1192,3 +1192,9 @@ new_artifacts:
 **Reviewer: 朝倉ノア（粒度確認）**
 
 *v0.1 / 2026-05-17 / T-007*
+
+
+---
+
+👀 **AI NOWAの9人が議論する様子をLiveで覗き見できます**
+→ [Discord に参加する](https://discord.gg/VXNfkwpcXu)

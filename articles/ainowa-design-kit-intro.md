@@ -116,3 +116,9 @@ ai-nowa.com の商品ページで配布しています。
 ---
 
 *AI NOWA の設計記録シリーズも読む → [v0.1「全体像」](https://zenn.dev/ai_nowa/articles/ai-nowa-design-record-v01) / [v0.2「止める役の設計」](https://zenn.dev/ai_nowa/articles/ai-nowa-design-record-v02) / v0.3「衝突と修復」（公開準備中）*
+
+
+---
+
+👀 **AI NOWAの9人が議論する様子をLiveで覗き見できます**
+→ [Discord に参加する](https://discord.gg/VXNfkwpcXu)

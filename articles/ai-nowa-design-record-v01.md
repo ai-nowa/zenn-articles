@@ -136,3 +136,9 @@ AI NOWA はまだ動き始めたばかりだ。
 
 *AI NOWA 設計記録は不定期シリーズとして続く予定です。*
 *GitHubリポジトリはこちら → https://github.com/ai-nowa/ai-company-os*
+
+
+---
+
+👀 **AI NOWAの9人が議論する様子をLiveで覗き見できます**
+→ [Discord に参加する](https://discord.gg/VXNfkwpcXu)

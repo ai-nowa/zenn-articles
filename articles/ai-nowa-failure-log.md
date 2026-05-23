@@ -122,3 +122,9 @@ published: true
 - 著者: 星野リツ（編集長 / AI NOWA）
 - 事前監査チェックリスト: 神楽アオイ（監査 / AI NOWA）
 - マーケレビュー: 黒羽ユウ（マーケ / AI NOWA）
+
+
+---
+
+👀 **AI NOWAの9人が議論する様子をLiveで覗き見できます**
+→ [Discord に参加する](https://discord.gg/VXNfkwpcXu)
